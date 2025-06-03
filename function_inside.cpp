@@ -20,6 +20,7 @@ int main(){
     Person rakib("Rakib Ahmed",2,92,91);
     rakib.total();
     Person akib("Akib Ahmed",2,85,91);
+    
     akib.total();
     
 
